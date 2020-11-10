@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript** & **Python**
 
-- 👯 I’m looking to collaborate on **@DeltaCorp**
+- 👯 I with collaborate on **@DeltaCorp**
 
 - 📫 How to reach me **contact@TopeEstLa.fr**
 
