@@ -1,60 +1,37 @@
-<h1 align="center">Welcome to Necrozia-Reclaim-Server 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
-  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/tope951/Necrozia-Reclaim-Server" />
-  </a>
-  <a href="https://twitter.com/tope95MC" target="_blank">
-    <img alt="Twitter: tope95MC" src="https://img.shields.io/twitter/follow/tope95MC.svg?style=social" />
-  </a>
-</p>
+# 👋 Hi there !
+I am a French developer. My name is Antonin, I'm 16 years old.
 
-> Serveur en nodejs pour faire des reclamations au staff de Necrozia
+# 🚀 My stats and what I use
+<!--
+- [Java](https://docs.oracle.com/javase/8/docs/api/)
+-->
 
-### ✨ [Demo](https://reclaim.necrozia.fr)
+<!--<details>
+  <summary>:zap: GitHub Stats</summary>
 
-## Prerequisites
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TopeEstLa&count_private=true&show_icons=true&hide_border=true" />
 
-- npm >=5.5.0
-- node >=9.3.0
+</details>-->
 
-## Install
+[![Alexis's github stats](https://github-readme-stats.TopeEstLa.vercel.app/api?username=TopeEstLa&count_private=true&show_icons=true)](https://github.com/TopeEstLa)
+[![Top Langs](https://github-readme-stats.TopeEstLa.vercel.app/api/top-langs/?username=TopeEstLa&layout=compact&hide_border=true)](https://github.com/TopeEstLa)
 
-```sh
-npm i
-```
 
-## Usage
+# 📫 How to reach me
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/dCMmWaDPrT)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sathonayOffi?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/TopeEstPasLa)
 
-```sh
-npm run start
-```
+<!--
+**TopeEstLa/TopeEstLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Run tests
+Here are some ideas to get you started:
 
-```sh
-npm run test
-```
-
-## Author
-
-👤 **Tope'ROOT**
-
-* Website: Necrozia.fr
-* Twitter: [@tope95MC](https://twitter.com/tope95MC)
-* Github: [@tope951](https://github.com/tope951)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
