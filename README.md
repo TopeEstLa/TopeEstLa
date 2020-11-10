@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TopeEstLa.fr**
 
-- 🌱 I’m currently learning **TypeScript** & **Python
+- 🌱 I’m currently learning **TypeScript** & **Python**
 
 - 👯 I’m looking to collaborate on **@DeltaCorp**
 
