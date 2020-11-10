@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TopeEstLa.fr**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** & **Python
 
 - 👯 I’m looking to collaborate on **@DeltaCorp**
 
@@ -17,7 +17,7 @@
   
  ## 🧵 Tools
 
-![linux](https://user-images.githubusercontent.com/49725253/89103932-db7c9c80-d415-11ea-89f9-d50d387204ae.png)![PyCharm_Logo svg](https://user-images.githubusercontent.com/49725253/89103933-dc153300-d415-11ea-8edd-77f114799102.png)![intellij-idea](https://user-images.githubusercontent.com/49725253/89103936-dcadc980-d415-11ea-83b7-b7d61050c2d6.png)
+![intellij-idea](https://user-images.githubusercontent.com/49725253/89103936-dcadc980-d415-11ea-83b7-b7d61050c2d6.png)![PyCharm_Logo svg](https://user-images.githubusercontent.com/49725253/89103933-dc153300-d415-11ea-8edd-77f114799102.png)![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)![MySql](https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg)![Redis](https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg)
 
 ## ☄️ Languages
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
