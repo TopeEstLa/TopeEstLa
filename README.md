@@ -9,7 +9,7 @@
 
 - 👯 I collaborate with **@DeltaCorp**
 
-- 📫 How to reach me **contact@TopeEstLa.fr**
+- 📫 How to reach me **contact.tope95@gmail.com**
 
 ## ✉️ Contacts
 <p align="left">
@@ -22,6 +22,6 @@
 ## ☄️ Languages
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topeestla&show_icons=true&locale=en&layout=compact" alt="topeestla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopeEstLa&theme=blue-green" alt="topeestla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topeestla&show_icons=true&locale=en" alt="topeestla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TopeEstLa&theme=blue-green" alt="topeestla" /></p>
