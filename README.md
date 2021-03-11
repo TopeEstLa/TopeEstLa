@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SaveServer**
 
-- 🌱 I’m currently learning **TypeScript** & **Python**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I collaborate with **@DeltaCorp**
 
