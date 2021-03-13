@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I collaborate with **@DeltaCorp**
-
 - 📫 How to reach me **contact.tope95@gmail.com**
 
 ## ✉️ Contacts
