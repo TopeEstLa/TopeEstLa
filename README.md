@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topeestla&label=Profile%20views&color=0e75b6&style=flat" alt="topeestla" /> </p>
 
-- 🔭 I’m currently working on **Xenozia & Hantaria**
+- 🔭 I’m currently working on **Xenozia**
 
 - 🌱 I’m currently learning **Java**
 
