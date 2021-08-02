@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SeasonSky**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **SpringFramework**
 
 - 📫 How to reach me **contact.tope95@gmail.com**
 
