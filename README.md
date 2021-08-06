@@ -7,7 +7,7 @@
 
 ## ✉️ Contacts
 <p align="left">
-<a href="https://twitter.com/TopeEstPasLa"><img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><a href="mailto:contact.tope95@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><img height="40" src="https://discord.c99.nl/widget/theme-1/424290757445419009.png">
+<a href="https://twitter.com/TopeEstPasLa"><img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> <a href="mailto:contact.tope95@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <href=""><img height="40" src="https://discord.c99.nl/widget/theme-1/424290757445419009.png">
   
  ## 🧵 Language & Tools
 <p align="left"> 
