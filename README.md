@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm TopeEstLa</h1>
 
-- 🎓 17 years
 - 🌱 Learning **SpringFramework**
 
 ## ✉️ Contacts
