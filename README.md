@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TopeEstLa</h1>
 
 - 🌱 Learning **SpringFramework**
-- 🏄🏼 Passionate about the **Sake** and **Boxe**
+- 🏄🏼 Passionate about the **Skate** and **Boxe**
 
 
 ## ✉️ Contacts
