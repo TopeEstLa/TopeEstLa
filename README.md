@@ -2,8 +2,7 @@
 
 <h1 align="center">TopeEstLa 📡</h1>
 
-<h4 align="center">🏄🏼 Passionate about the **Skate** and **Boxe**</h4>
-<h4 align="center">🌱 Learning **Spring** && **React**</h4>
+<h4 align="center">🏄🏼 Passionate about the <strong>Skate</strong> and <strong>Boxe</strong></h4>
 
 <h2 align="center">✉️ Contacts</h2>
 <p align="center">
