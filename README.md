@@ -22,8 +22,7 @@
 <img height="30" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> 
 <img height="30" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"><img height="30" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 
-## ☄️ Stats
-
-<img  align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=TopeEstLa&theme=blue-green">
+<h2 align="center">☄️ Stats</h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TopeEstLa&theme=blue-green">
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
