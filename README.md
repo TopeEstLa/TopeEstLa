@@ -5,17 +5,15 @@
 - 🏄🏼 Passionate about the **Skate** and **Boxe**
 - 🌱 Learning **Spring** && **React**
 
-## ✉️ Contacts
-
-<p align="left">
+<h2 align="center">✉️ Contacts</h1>
+<p align="center">
 
 <a href="https://twitter.com/TopeEstPasLa"><img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <a href="mailto:contact.tope95@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href=""><img height="40" src="https://discord.c99.nl/widget/theme-3/424290757445419009.png">
+<img height="40" src="https://discord.c99.nl/widget/theme-3/424290757445419009.png">
 
-## 🧵 Language & Tools
-
-<p align="left"> 
+<h2 align="center">🧵 Language & Tools</h1>
+<p align="center"> 
 
 <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="30" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><img height="30" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"><img height="30" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
