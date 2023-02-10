@@ -11,9 +11,10 @@ Antonin
 
 
 <h2 align="center">📬 Contact</h2>
+<p align="left">
 <img height="40" src="https://discord.c99.nl/widget/theme-3/424290757445419009.png">
 <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
+</p>
 
 
 <h2 align="center">📋 Experiences</h2>
