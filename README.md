@@ -5,7 +5,7 @@
 <img height="40" src="https://cdn.discordapp.com/attachments/835956277464530944/1073712189774516295/729441672005419028.png">
 Antonin
 </h1>
-<h4 align="center">student at Cy Tech</h4>
+<h4 align="center">Student at Cy Tech</h4>
 
 
 
@@ -17,7 +17,7 @@ Antonin
 
 
 <h2 align="center">📋 Experiences</h2>
-<a href="https://rivrs.io"><img height="100" src="https://uploads-ssl.webflow.com/64234c4f39c19a83da0bbda3/64ba7cf95f82d6ed14f8fceb_icon_black-p-500.png"></a>
+<a href="https://rivrs.io"><img height="100" src="https://media.discordapp.net/attachments/1036303987084898415/1170716571132510248/icon_green.png"></a>
 
 
 <h2 align="center">☄️ Stats</h2>
