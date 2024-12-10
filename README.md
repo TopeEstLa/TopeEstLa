@@ -8,7 +8,7 @@
 <h2 align="center">📬 Contact</h2>
 <p align="left">
     <img height="40" src="https://discord.c99.nl/widget/theme-3/424290757445419009.png">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/antonin-peralta/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 <h2 align="center">📋 Experiences</h2>
 <a href="https://rivrs.io"><img height="100" src="https://github.com/TopeEstLa/TopeEstLa/blob/master/assets/rivrs_icon.png?raw=true"></a>
